@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World👋
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=bukharyi&show_icons=true&theme=merko&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bukharyi&langs_count=8&layout=compact&theme=merko&hide_border=true)
